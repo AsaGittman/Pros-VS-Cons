@@ -1,0 +1,5 @@
+Pro Con List
+- Battle Sim
+- Each  item on the list has a weight which will be the items HP
+
+
